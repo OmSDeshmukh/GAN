@@ -16,12 +16,13 @@ Original repository: [Sreenivas Bhattiprolu's GitHub](https://github.com/bnsreen
 
 To set up the environment for running this project, you can use the provided `requirements.txt` file. Create a virtual environment and install the dependencies using the following commands:
 
-```bash
+```
 python -m venv venv
 source venv/bin/activate  # For Linux/Mac
 # OR
 venv\Scripts\activate  # For Windows
 pip install -r requirements.txt
+```
 
 ## Execution
 
@@ -33,10 +34,11 @@ Run the following command in your terminal or command prompt to open the Jupyter
 
 ```bash
 jupyter notebook GAN_train.ipynb
-
+```
 ### 2. Testing
 
 Run the following command in your terminal or command prompt to open the Jupyter Notebook for training:
 
 ```bash
 jupyter notebook GAN_test.ipynb
+```
