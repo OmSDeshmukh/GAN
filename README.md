@@ -1,9 +1,6 @@
 # GAN for Handwritten Digits Generation
 
-This repository contains an implementation of a Generative Adversarial Network (GAN) for generating handwritten digits similar to the MNIST dataset. The codebase is inspired by and adapted from [Sreenivas Bhattiprolu's GitHub repository](link-to-the-repo).
-
-
-
+This repository contains an implementation of a Generative Adversarial Network (GAN) for generating handwritten digits similar to the MNIST dataset. The codebase is inspired by and adapted from [Sreenivas Bhattiprolu's GitHub repository](https://github.com/bnsreenu/python_for_microscopists/blob/master/125_126_GAN_predict_mnist.py).
 
 ## Overview
 
@@ -11,9 +8,9 @@ Generative Adversarial Networks are a class of artificial intelligence algorithm
 
 ## Credits
 
-The majority of the code in this repository has been referenced and adapted from [Sreenivas Bhattiprolu's GitHub repository](link-to-the-repo). We acknowledge and appreciate their work in providing a foundation for this project.
+The majority of the code in this repository has been referenced and adapted from [Sreenivas Bhattiprolu's GitHub repository](https://github.com/bnsreenu/python_for_microscopists/blob/master/125_126_GAN_predict_mnist.py). We acknowledge and appreciate their work in providing a foundation for this project.
 
-Original repository: [Sreenivas Bhattiprolu's GitHub](link-to-the-repo)
+Original repository: [Sreenivas Bhattiprolu's GitHub](https://github.com/bnsreenu/python_for_microscopists)
 
 ## Requirements
 
@@ -28,6 +25,18 @@ pip install -r requirements.txt
 
 ## Execution
 
-After setting up the environment, run the blocks in GAN_train.ipynb file to train the model
+After setting up the environment, follow the steps below:
 
-For testing, run the GAN_test.ipynb with the correct model name input
+### 1. Training:
+
+Run the following command in your terminal or command prompt to open the Jupyter Notebook for training:
+
+```bash
+jupyter notebook GAN_train.ipynb
+
+### 2. Testing
+
+Run the following command in your terminal or command prompt to open the Jupyter Notebook for training:
+
+```bash
+jupyter notebook GAN_test.ipynb
