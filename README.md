@@ -1,6 +1,6 @@
 # GAN for Handwritten Digits Generation
 
-This repository contains an implementation of a Generative Adversarial Network (GAN) for generating handwritten digits similar to the MNIST dataset. The codebase is inspired by and adapted from [Sreenivas Bhattiprolu's GitHub repository](https://github.com/bnsreenu/python_for_microscopists/blob/master/125_126_GAN_predict_mnist.py).
+This repository contains an implementation of a Generative Adversarial Network (GAN) for generating handwritten digits similar to the MNIST dataset. The codebase is inspired by and adapted from [Sreenivas Bhattiprolu's GitHub repository]("https://github.com/bnsreenu/python_for_microscopists/blob/master/125_126_GAN_predict_mnist.py").
 
 ## Overview
 
@@ -8,9 +8,9 @@ Generative Adversarial Networks are a class of artificial intelligence algorithm
 
 ## Credits
 
-The majority of the code in this repository has been referenced and adapted from [Sreenivas Bhattiprolu's GitHub repository](https://github.com/bnsreenu/python_for_microscopists/blob/master/125_126_GAN_predict_mnist.py). We acknowledge and appreciate their work in providing a foundation for this project.
+The majority of the code in this repository has been referenced and adapted from [Sreenivas Bhattiprolu's GitHub repository]("https://github.com/bnsreenu/python_for_microscopists/blob/master/125_126_GAN_predict_mnist.py"). We acknowledge and appreciate their work in providing a foundation for this project.
 
-Original repository: [Sreenivas Bhattiprolu's GitHub](https://github.com/bnsreenu/python_for_microscopists)
+Original repository: [Sreenivas Bhattiprolu's GitHub]("https://github.com/bnsreenu/python_for_microscopists")
 
 ## Requirements
 
